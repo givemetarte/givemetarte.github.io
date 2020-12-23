@@ -18,21 +18,21 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+title                    : "Haram Park"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haram Park"
 description              : "궁금한 곳을 찾아다니는 여행자"
 url                      : "https://givemetarte.github.io"
 baseurl                  : ""
 repository               : "givemetarte/givemetarte.github.io"
-teaser                   : "/assets/images/logo.jpg"
+teaser                   : "/assets/images/praha.JPG"
 logo                     : "/assets/images/logo.jpg"
 masthead_title           : " " 
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances" # "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,8 +43,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light" 
+    issue_term           : "pathname" 
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -53,7 +53,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -65,16 +65,16 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "google705e479c8306ab95.html"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "harampark5"
+  username               : 
 facebook:
-  username               : "harampark953"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -97,13 +97,13 @@ analytics:
 author:
   name             : "Haram Park"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "뭘 공부하는지 모르겠지만, 공부하는 여행자"
+  bio              : "뭘 공부하는지 모르겠지만, 열심히 이것저것 공부하는 중"
   location         : "Seoul, Korea"
   email            : haram9553@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:haram9553@email.com"
+      # url: "mailto:haram9553@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://givemetarte.github.io"
@@ -112,7 +112,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/harampark953"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/givemetarte"
@@ -211,7 +211,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)
@@ -278,6 +278,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
