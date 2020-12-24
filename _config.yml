@@ -27,7 +27,7 @@ url                      : "https://givemetarte.github.io"
 baseurl                  : ""
 repository               : "givemetarte/givemetarte.github.io"
 teaser                   : "/assets/images/praha.JPG"
-logo                     : "/assets/images/logo.jpg"
+logo                     : #"/assets/images/logo.jpg"
 masthead_title           : " " 
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
