@@ -126,6 +126,7 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }
@@ -354,4 +355,20 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+::selection {
+  background: $purple;
+  color: #FFF;
+  text-shadow: none;
+}
+::-moz-selection {
+  background: $purple;
+  color: #FFF;
+  text-shadow: none;
+}
+::-webkit-selection {
+  background: $purple;
+  color: #FFF;
+  text-shadow: none;
 }
