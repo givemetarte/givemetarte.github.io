@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Haram Park"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "뭘 공부하는지 모르겠지만, 열심히 이것저것 공부하는 중"
+  bio              : "궁금한게 무척 많은, 코딩하는 사회과학도생 👩‍💻🔮"
   location         : "Seoul, Korea"
   email            : haram9553@gmail.com
   links:
@@ -281,3 +281,18 @@ defaults:
       comments: true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: project # project
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# portfolio
+collections:
+  # portfolio:
+  project:
+    output: true
+    permalink: /:collection/:path/
