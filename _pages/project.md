@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+지금까지 해왔던 `project`를 기록해두는 공간입니다. 
