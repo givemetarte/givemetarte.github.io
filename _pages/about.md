@@ -11,8 +11,8 @@ toc: false
 
 ![me]({{ site.url }}{{ site.baseurl }}/assets/images/profile.png){: .align-center}
 
-이 블로그는 Github Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+ - 👩🏻‍💻 코딩하는 사회과학도생 
+ - 🔮 궁금한 것이 많은 욕심쟁이 
+ - 😺 미래 고양이 집사 
 
-진짜 블로그인 <{{site.url}}>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+데이터, 링크드 데이터, 지식 그래프, 인공지능에 관심이 많습니다. 그동안 해왔던 다양한 프로젝트들을 공유하고, 대학원에서 배운 것들을 정리해보려 합니다. 간혹 신나는🙄 대학원생 랩실 이야기도 풀어보겠습니다. 게시글과 관련된 이야기는 댓글로, 구체적인 코드는 [github](https://www.github.com/givemetarte)에서, 개인적 연락은 *<haram9553@gmail.com>*으로 연락해주세요. 
