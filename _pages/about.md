@@ -1,13 +1,15 @@
 ---
-title: "이 블로그 설명서"
+title: "About"
 permalink: /about/
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "나를 소개합니다."
 layout: single
 last_modified_at: 2020-12-24T10:42:23-04:00
 toc: false
 ---
 
-## {{ site.url}} 블로그
+## Haram Park
+
+![me]({{ site.url }}{{ site.baseurl }}/assets/images/profile.png){: .align-center}
 
 이 블로그는 Github Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
 
