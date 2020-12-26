@@ -357,18 +357,20 @@ input[type="submit"],
   transition: $global-transition;
 }
 
+/* drag 시 색 변화 animation */ 
+
 ::selection {
-  background: $purple;
+  background: $info-color;
   color: #FFF;
   text-shadow: none;
 }
 ::-moz-selection {
-  background: $purple;
+  background: $info-color;
   color: #FFF;
   text-shadow: none;
 }
 ::-webkit-selection {
-  background: $purple;
+  background: $info-color;
   color: #FFF;
   text-shadow: none;
 }
