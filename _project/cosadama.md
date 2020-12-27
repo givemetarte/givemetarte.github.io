@@ -1,6 +1,6 @@
 ---
 title: "COSADAMA"
-excerpt: "문과생들이 데이터 분석 역량을 키우기위해 고군분투했던 좌충우돌기🐶를 담고 있습니다."
+excerpt: "문과생들이 데이터 분석 역량을 키우기위해 고군분투했던 좌충우돌기🌝"
 header:
   image: /assets/images/cosadama/csdm-logo.png
   teaser: assets/images/cosadama/csdm-logo-teaser.png
@@ -48,7 +48,7 @@ toc_sticky: true
 
 ## Project
 ### COVID-19: 우리의 기억
-Team.Cayley에 코사다마가 참여하여 한국의 Coivd-19 관련 데이터들을 아카이브하고, 관련한 사회 전반 이슈들에 대해 정리했다. 첫번째 확진자 이후 정부의 정책 및 대응, 사회·경제·문화·교육·환경 분야의 주요 이슈를 포함하고 있다. 프로젝트 중 구축된 자료들과 데이터 분석 코드들은 모두 공개하고 있다. 본 프로젝트는 행정안전부가 주최한 정부혁신 끝장개발대회(해커톤)에서 커뮤니티 상을 수상했다. 수상 소식은 `CAU News Today`에 실리게 되었다.[^1] 
+`Team.Cayley`에 참여하여 한국의 Coivd-19 관련 데이터들을 아카이브하고, 관련한 사회 전반 이슈들에 대해 정리했다. 첫번째 확진자 이후 정부의 정책 및 대응, 사회·경제·문화·교육·환경 분야의 주요 이슈를 포함하고 있다. 프로젝트 중 구축된 자료들과 데이터 분석 코드들은 모두 공개하고 있다. 본 프로젝트는 행정안전부가 주최한 정부혁신 끝장개발대회(해커톤)에서 커뮤니티 상을 수상했다. 수상 소식은 `CAU News Today`에 실리게 되었다.[^1] 
 [More Info](/project/team-cayley){: .btn}
 
 ### COCO: COsadama COnference 
